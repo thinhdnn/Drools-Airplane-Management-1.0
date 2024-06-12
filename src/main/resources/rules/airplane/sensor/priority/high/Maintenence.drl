@@ -1,0 +1,10 @@
+package rules.airplane.sensor.priority.high
+
+import pl.edu.atar.airplanemanagement.events.MaintenanceAlertEvent;
+
+rule "Maintenance Alert"
+when
+    $event : MaintenanceAlertEvent()
+then
+    System.out.println("UWAGA: Samolot " + $event.getAirplaneId() + " wymaga przeglądu!");
+end

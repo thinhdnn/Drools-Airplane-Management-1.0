@@ -1,0 +1,19 @@
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd" >
+<log4j:configuration debug="false">
+
+    <appender name="stdout" class="org.apache.log4j.ConsoleAppender">
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss} %p ⮕ %m%n"/>
+        </layout>
+    </appender>
+
+    <category name="org.drools">
+        <priority value="info" />
+    </category>
+
+    <root>
+        <level value="info"/>
+        <appender-ref ref="stdout"/>
+    </root>
+
+</log4j:configuration>

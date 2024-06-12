@@ -1,0 +1,11 @@
+package rules.airplane.sensor.priority.high
+
+import pl.edu.atar.airplanemanagement.events.SpeedEvent;
+
+rule "Speed Limit Violation"
+dialect "java"
+when
+    $event : SpeedEvent(speed > 1200)
+then
+    System.out.println("UWAGA: Samolot " + $event.getAirplaneId() + " przekroczył dopuszczalną prędkość chwilową przelotu!");
+end

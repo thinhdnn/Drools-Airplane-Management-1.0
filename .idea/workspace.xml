@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1956f031-4c5b-40a3-a92a-a9d34cd683de" name="Changes" comment="7.1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="drools.rule" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tpotempa&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tpotempa/Drools-University-Recruitment-7.0.git&quot;,
+    &quot;accountId&quot;: &quot;a2227e7d-f40f-4751-b838-aad784b736ba&quot;
+  }
+}</component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="workspaceImportForciblyTurnedOn" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2RDCTuNmmbTOgheigJ3VaAoKH2o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AirplaneManagement.executor": "Run",
+    "Application.UniversityMain.executor": "Run",
+    "Application.UniversityMainAdvanced.executor": "Run",
+    "Application.UniversityMainBasic.executor": "Run",
+    "Application.UniversityMainBasicStateless.executor": "Run",
+    "Application.UniversityMainExpert.executor": "Run",
+    "Application.UniversityMainIntermediate.executor": "Run",
+    "Application.UniversityMainSimple 3.0.executor": "Run",
+    "Application.UniversityMainSimple.executor": "Run",
+    "Application.UniversityMainUpperIntermediate.executor": "Run",
+    "Application.UniversityMainVerySimple 3.0.executor": "Run",
+    "Application.UniversityMainVerySimple 4.0.executor": "Run",
+    "Application.UniversityMainVerySimple.executor": "Run",
+    "Application.UniversityMainVerySimpleStateless.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/tpotempa/Documents/#PROJECT#/IdeaProjects/Drools-Airplane-Management/Airplane-Management-1.0/src/main/resources/rules/airplane/sensor/priority/high",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/rules/airplane/sensor/priority/high" />
+      <recent name="$PROJECT_DIR$/src/main/resources/rules/expert" />
+      <recent name="$PROJECT_DIR$/src/main/resources/rules" />
+      <recent name="$PROJECT_DIR$/src/main/resources/rules/basic" />
+      <recent name="$PROJECT_DIR$/src/main/resources/rules/very" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/rules/airplane/sensor/priority/high" />
+      <recent name="$PROJECT_DIR$/src/main/resources/rules/airplane" />
+      <recent name="$PROJECT_DIR$/src/main/resources/rules/priority/high" />
+      <recent name="$PROJECT_DIR$/src/main/resources/rules/HighPriority" />
+      <recent name="$PROJECT_DIR$/src/main/java/pl/edu/atar/airplanemanagement/events" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pl.edu.atar.airplanemanagement" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.edu.atar.airplanemanagement" />
+      <recent name="pl.edu.atar.airplanemanagement.events" />
+      <recent name="pl.edu.atar.universityrecruitment" />
+      <recent name="pl.edu.pwsztar.universityrecruitment" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AirplaneManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.atar.airplanemanagement.AirplaneManagement" />
+      <module name="0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AirplaneManagement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1956f031-4c5b-40a3-a92a-a9d34cd683de" name="Changes" comment="" />
+      <created>1686775278212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686775278212</updated>
+      <workItem from="1686775279686" duration="122000" />
+      <workItem from="1686775411161" duration="101000" />
+      <workItem from="1686775519248" duration="1758000" />
+      <workItem from="1686777313021" duration="447000" />
+      <workItem from="1686777897463" duration="16000" />
+      <workItem from="1686777945769" duration="1590000" />
+      <workItem from="1686817244635" duration="7029000" />
+      <workItem from="1696423451195" duration="37000" />
+      <workItem from="1699254757757" duration="654000" />
+      <workItem from="1699273790390" duration="593000" />
+      <workItem from="1699428411480" duration="704000" />
+      <workItem from="1699859518089" duration="1774000" />
+      <workItem from="1699894746177" duration="24000" />
+      <workItem from="1714762588326" duration="1126000" />
+      <workItem from="1715086298365" duration="12763000" />
+      <workItem from="1715322029830" duration="19974000" />
+      <workItem from="1715591036191" duration="337000" />
+      <workItem from="1715748142694" duration="8010000" />
+      <workItem from="1715846283067" duration="4909000" />
+      <workItem from="1716364377382" duration="5322000" />
+      <workItem from="1716445535540" duration="2825000" />
+      <workItem from="1716448371364" duration="4746000" />
+      <workItem from="1716453419274" duration="7751000" />
+      <workItem from="1716464885224" duration="1244000" />
+      <workItem from="1716466140348" duration="358000" />
+      <workItem from="1716466506912" duration="257000" />
+      <workItem from="1716466779852" duration="526000" />
+      <workItem from="1716467311973" duration="562000" />
+      <workItem from="1716467880993" duration="1201000" />
+      <workItem from="1716469089975" duration="1444000" />
+      <workItem from="1716470540906" duration="20217000" />
+      <workItem from="1716492046170" duration="1423000" />
+      <workItem from="1716494366046" duration="75000" />
+      <workItem from="1716494450265" duration="23711000" />
+      <workItem from="1716969558152" duration="8232000" />
+      <workItem from="1717503246765" duration="2085000" />
+      <workItem from="1717523451780" duration="12906000" />
+      <workItem from="1717567651276" duration="66000" />
+      <workItem from="1717567741722" duration="6063000" />
+      <workItem from="1717654884651" duration="16885000" />
+      <workItem from="1717699795676" duration="4161000" />
+      <workItem from="1717704216834" duration="834000" />
+      <workItem from="1717705092329" duration="104000" />
+      <workItem from="1717705263567" duration="17000" />
+      <workItem from="1717705286466" duration="21201000" />
+      <workItem from="1718110545411" duration="15000" />
+      <workItem from="1718110579107" duration="3236000" />
+      <workItem from="1718113996225" duration="11109000" />
+    </task>
+    <task id="LOCAL-00001" summary="First.">
+      <option name="closed" value="true" />
+      <created>1715284805360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715284805360</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First 3.0.">
+      <option name="closed" value="true" />
+      <created>1715285401632</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715285401632</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715286303219</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715286303219</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715327157910</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715327157910</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715327656697</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715327656697</updated>
+    </task>
+    <task id="LOCAL-00006" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715327667543</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715327667543</updated>
+    </task>
+    <task id="LOCAL-00007" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715327723361</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715327723361</updated>
+    </task>
+    <task id="LOCAL-00008" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715332255981</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715332255981</updated>
+    </task>
+    <task id="LOCAL-00009" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715337315077</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715337315077</updated>
+    </task>
+    <task id="LOCAL-00010" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715748637479</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715748637480</updated>
+    </task>
+    <task id="LOCAL-00011" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715749214921</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715749214921</updated>
+    </task>
+    <task id="LOCAL-00012" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1716495427574</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716495427574</updated>
+    </task>
+    <task id="LOCAL-00013" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1716496756398</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1716496756398</updated>
+    </task>
+    <task id="LOCAL-00014" summary="4.1">
+      <option name="closed" value="true" />
+      <created>1716533315538</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1716533315538</updated>
+    </task>
+    <task id="LOCAL-00015" summary="4.1">
+      <option name="closed" value="true" />
+      <created>1716536745973</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716536745973</updated>
+    </task>
+    <task id="LOCAL-00016" summary="4.1">
+      <option name="closed" value="true" />
+      <created>1716540375221</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1716540375221</updated>
+    </task>
+    <task id="LOCAL-00017" summary="4.1">
+      <option name="closed" value="true" />
+      <created>1716540385647</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1716540385647</updated>
+    </task>
+    <task id="LOCAL-00018" summary="4.1">
+      <option name="closed" value="true" />
+      <created>1716972788298</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1716972788298</updated>
+    </task>
+    <task id="LOCAL-00019" summary="7.1">
+      <option name="closed" value="true" />
+      <created>1717745443811</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1717745443811</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="original/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="First." />
+    <MESSAGE value="First 3.0." />
+    <MESSAGE value="3.1." />
+    <MESSAGE value="4.1" />
+    <MESSAGE value="7.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

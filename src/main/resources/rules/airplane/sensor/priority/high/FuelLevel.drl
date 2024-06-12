@@ -1,0 +1,10 @@
+package rules.airplane.sensor.priority.high
+
+import pl.edu.atar.airplanemanagement.events.FuelLevelEvent;
+
+rule "Low Fuel Level"
+when
+    $event : FuelLevelEvent(fuelLevel < 10) // Wartość wyrażona w %
+then
+    System.out.println("UWAGA: Samolot " + $event.getAirplaneId() + " niski stan paliwa!");
+end

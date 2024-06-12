@@ -1,0 +1,10 @@
+package rules.airplane.sensor.priority.high
+
+import pl.edu.atar.airplanemanagement.events.AltitudeEvent;
+
+rule "Altitude Deviation"
+when
+    $event : AltitudeEvent(altitude < 3000 || altitude > 12000)
+then
+    System.out.println("UWAGA: Samolot " + $event.getAirplaneId() + " odchylił się poza zakres bezpiecznej wysokości lotu!");
+end

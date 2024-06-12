@@ -1,0 +1,11 @@
+package rules.airplane.sensor.priority.high
+
+import pl.edu.atar.airplanemanagement.events.LocationLostEvent;
+
+rule "Monitor Airplane Signal Lost"
+when
+    $e : LocationLostEvent($ts : timestamp)
+    not(LocationLostEvent( this != $e, this after[0s, 10s] $e ))
+then
+    System.out.println("Informacja: Utracono pozycję samolotu w momencie " + $ts);
+end

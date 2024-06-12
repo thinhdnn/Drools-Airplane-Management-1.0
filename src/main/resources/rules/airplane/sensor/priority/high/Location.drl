@@ -1,0 +1,12 @@
+package rules.airplane.sensor.priority.high
+
+import pl.edu.atar.airplanemanagement.events.LocationUpdateEvent;
+
+rule "Monitor Airplane Location"
+when
+    $e : LocationUpdateEvent()
+then
+    System.out.println("Informacja: Samolot " + $e.getAirplaneId() + " jest na pozycji o szerokości geograficznej " + $e.getLatitude() +
+        " oraz długości geograficznej " + $e.getLongitude() +
+        " w momencie " + $e.getTimestamp());
+end

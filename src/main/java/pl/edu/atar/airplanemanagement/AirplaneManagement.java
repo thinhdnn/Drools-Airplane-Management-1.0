@@ -65,7 +65,7 @@ public class AirplaneManagement {
                     //kSession.insert(lle);
                     // WARIANT 2 - END
 
-                    // Przesunięcie (pseudo)zegara w przód aby symulować upływ czasu
+                    // Przesunięcie (pseudo)zegara w przód aby symulować upływ czasu  dfddf
                     pclock.advanceTime(15, TimeUnit.SECONDS);
 
                     // Uśpienie wątku w celu obserwowania w "slow-motion" działania silnika wnioskującego

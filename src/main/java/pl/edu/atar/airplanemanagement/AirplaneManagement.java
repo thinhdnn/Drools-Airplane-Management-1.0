@@ -76,7 +76,7 @@ public class AirplaneManagement {
             }
         }).start();
 
-        // Dodanie możliwości poprawnego zamknięcia sesji
+        // Dodanie możliwości poprawnego zamknięcia sesjis
         Runtime.getRuntime().addShutdownHook(new Thread(kSession::halt));
 
     }
